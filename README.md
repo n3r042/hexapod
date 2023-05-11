@@ -1,0 +1,2 @@
+# hexapod
+Personal Hexapod project
